@@ -33,18 +33,18 @@ An AI-powered prototype solution that helps Axelwave Technologies discover poten
 
 # Structure
 EVAI_TakeHome/
-├── app.py                                                               # Main Streamlit application
-├── discovery_engine.py                                                  # Core discovery logic orchestrator
-├── agents.py                                                            # AI agents (Search, Analysis, Validation)
-├── models.py                                                            # AI models (LLM, Embeddings, Vector Store)
-├── config.py                                                            # Configuration and constants
-├── data_sources.py                                                      # Data source interfaces
-├── requirements.txt                                                     # Python dependencies
-├── README.md                                                            # This file
-└── chroma_data/                                                         # Optional vector database storage
-└── Fictitious_Company_AxelwaveTechnologies_DemoData/                    # Given documents
-└── ProblemStatement/
-└── .gitignore
+- app.py
+- discovery_engine.py
+- agents.py
+- models.py
+- config.py
+- data_sources.py
+- requirements.txt
+- README.md
+- chroma_data/
+- Fictitious_Company_AxelwaveTechnologies_DemoData/
+- ProblemStatement/
+- .gitignore
 
 # Setup Instructions
 I used Python3.10 and ran the experiment locally (CPU).
