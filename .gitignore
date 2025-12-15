@@ -1,0 +1,17 @@
+#################
+#Data      files#
+#################
+.DS_Store
+data/
+venv/
+
+###############
+#Jupyter files#
+###############
+.ipynb_checkpoints/*
+
+
+###############
+#python  files#
+###############
+__pycache__
